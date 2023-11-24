@@ -1,7 +1,7 @@
 package router
 
 import (
-	"github.com/someshkurrey/go-movie-demo/controller"
+	"go-movie-demo/controller"
 
 	"github.com/gorilla/mux"
 )

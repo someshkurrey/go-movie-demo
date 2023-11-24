@@ -8,7 +8,7 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/someshkurrey/go-movie-demo/model"
+	"go-movie-demo/model"
 
 	"github.com/gorilla/mux"
 	"go.mongodb.org/mongo-driver/bson"

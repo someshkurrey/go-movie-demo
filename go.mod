@@ -1,4 +1,4 @@
-module github.com/someshkurrey/go-movie-demo
+module go-movie-demo
 
 go 1.21.3
 

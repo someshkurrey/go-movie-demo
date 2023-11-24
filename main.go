@@ -5,7 +5,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/someshkurrey/go-movie-demo/router"
+	"go-movie-demo/router"
 )
 
 func main() {
