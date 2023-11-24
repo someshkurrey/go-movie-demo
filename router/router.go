@@ -1,7 +1,7 @@
 package router
 
 import (
-	"apiwithdb/controller"
+	"github.com/someshkurrey/go-movie-demo/controller"
 
 	"github.com/gorilla/mux"
 )

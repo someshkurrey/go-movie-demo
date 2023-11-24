@@ -1,10 +1,11 @@
 package main
 
 import (
-	"apiwithdb/router"
 	"fmt"
 	"log"
 	"net/http"
+
+	"github.com/someshkurrey/go-movie-demo/router"
 )
 
 func main() {

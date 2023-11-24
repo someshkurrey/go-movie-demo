@@ -1,13 +1,14 @@
 package controller
 
 import (
-	"apiwithdb/model"
 	"context"
 	"encoding/json"
 	"fmt"
 	"log"
 	"net/http"
 	"os"
+
+	"github.com/someshkurrey/go-movie-demo/model"
 
 	"github.com/gorilla/mux"
 	"go.mongodb.org/mongo-driver/bson"
