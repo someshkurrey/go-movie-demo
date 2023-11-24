@@ -1,4 +1,4 @@
-module apiwithdb
+module github.com/someshkurrey/go-movie-demo
 
 go 1.21.3
 
